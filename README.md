@@ -5,7 +5,7 @@
 ## Containts:
 | Project's name | Description | Skills and Tools | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов](https://github.com/smetne/ya_praktikum/tree/master/big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени суток и дня недели| *pandas* |
+| [Музыка больших городов][1] | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени суток и дня недели| *pandas* |
 | [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/smetne/ya_praktikum/tree/master/the%20reliability%20of%20borrowers) | На основе статистики о платёжеспособности клиентов исследовали влияние семейного положения и количества детей клиента на факт возврата кредита в срок| *pandas*, *pymorphy2*, *collections*, *seaborn*, *matplotlib*, data preprocessing |
 | [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/smetne/ya_praktikum/tree/master/ads%20for%20the%20sale%20of%20apartments) | Используя данные сервиса Яндекс.Недвижимость определили рыночную стоимость объектов недвижимости и типичные параметры квартир| *pandas*, *matplotlib*, EDA, data visualization, data preprocessing |
 | [Определение выгодного тарифа для телеком компании](https://github.com/smetne/ya_praktikum/tree/master/telecom) | На основе данных клиентов оператора сотовой связи проанализировали поведение клиентов и нашли лучший тариф| *pandas*, *scipy*, *numpy*, *seaborn*, *matplotlib*, *functools*, descriptive statistics,  testing statistical hypotheses |

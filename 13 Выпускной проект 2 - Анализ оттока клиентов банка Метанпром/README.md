@@ -1,8 +1,7 @@
 # Анализ оттока клиентов
-ссылка на презентацию:
+Ссылка на презентацию:https://cloud.mail.ru/public/CMdz/fAA5LCUxZ
 
-ссылка на дашборд:
-
+Ссылка на дашборд: https://public.tableau.com/app/profile/sergey.bykov4376/viz/FinalprojectBanrchurn/Dashboard1?publish=yes
 ## Данные
 - баллы кредитного скоринга,
 - город,

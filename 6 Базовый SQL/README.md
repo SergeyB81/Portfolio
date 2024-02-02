@@ -1,8 +1,7 @@
 # Основы SQL
 
-Проект был выполнен в интерактивном тренажере Яндекс.Практикума.
 
-Состоит из 23 заданий на составление запросов к БД (PostgreSQL) на основе датасета Startup Investments с Kaggle (https://www.kaggle.com/justinas/startup-investments)
+Проект состоит из 23 заданий на составление запросов к БД (PostgreSQL) на основе датасета Startup Investments с Kaggle (https://www.kaggle.com/justinas/startup-investments)
 
 ER-диаграмма базы данных:
 ![ER-диаграмма проекта Базовый SQL](https://user-images.githubusercontent.com/117563470/206789888-280635f0-758a-42b4-9bf8-f0e7ff8a41b3.png)
@@ -110,5 +109,3 @@ ER-диаграмма базы данных:
 created_at — дата и время создания записи в таблице;
 updated_at — дата и время обновления записи в таблице.
 
-
-***Статус проекта: Завершен***

@@ -6,7 +6,7 @@
 
 ER-диаграмма базы данных:
 ![stackoverflow-ER-diagram](https://user-images.githubusercontent.com/117563470/210385510-c6d519eb-6850-46ba-81c8-c77efeb98654.png)
-
+ 
 Описание данных, которые хранят таблицы:
 
 Таблица `badges`

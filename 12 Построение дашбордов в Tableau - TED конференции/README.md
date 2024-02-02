@@ -10,7 +10,7 @@ TED (от англ. technology, education, design — «технологии, о
 
 В наличии 5 файлов:
 - `tableau_project_data_1.csv`;
-- `tableau_project_data_2.csv`;
+- `tableau_project_data_2.csv`; 
 - `tableau_project_data_3.csv`;
 - `tableau_project_event_dict.csv`;
 - `tableau_project_speakers_dict.csv`.
@@ -52,6 +52,6 @@ TED (от англ. technology, education, design — «технологии, о
 1. История выступлений;
 2. Тематика выступлений;
 3. Авторы выступлений;
-4. Анализ категории 'Другие'
+4. Анализ категории 'Другие'.
 
 В ходе этого проекта были созданы вычисляемые поля с использованием LOD, сеты и параметры.

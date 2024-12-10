@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 # Портфолио
 **Учебные проекты, которые были выполнены в рамках прохождения курса Аналитик данных от Яндекс.Практикума**
 | Название проекта | Описание | Навыки и инструменты |  
@@ -19,3 +16,6 @@
 | [Создание дашборда по пользовательским событиям для агрегатора новостей (12)](https://github.com/SergeyB81/Portfolio/tree/main/12%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%20%D0%B2%20Tableau%20-%20TED%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8) | Используя данные Яндекс.Дзена построили дашборд с метриками взаимодействия пользователей с карточками статей| *pandas*, *sqlalchemy*, *Tableau*,  product metrics |
 | [Анализ оттока клиентов банка (выпускной проект 1)](https://github.com/SergeyB81/Portfolio/tree/main/13%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202%20-%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%20%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BF%D1%80%D0%BE%D0%BC) | Проанализировали клиентов регионального банка и выделили портрет клиентов, которые склонны уходить из банка «Метанпром». | *pandas*, *numpy*, *seaborn*, *scipy*, *matplotlib*, classification, data visualization, testing statistical hypotheses|
 | [Оценка результатов A/B-теста (выпускной проект 2)](https://github.com/SergeyB81/Portfolio/tree/main/13%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%90B%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | Проверили корректность проведения A/B-теста и проанализировали полученные результаты| *pandas*, *numpy*, *datetime*, *seaborn*, *scipy*, *matplotlib*, *plotly*, *math*, EDA, A/B-testing|
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
